@@ -1,7 +1,7 @@
 # 📚 Extractive Text Summarizer
 
 > **Supervisor**: Dr. Samyan Qayyum Wahla  
-> **Group Members**: Faisal Ilyas (2022-CS-03), Khalil Ahmad (2022-CS-93)
+> **Group Members**: Faisal Ilyas (2022-CS-63), Khalil Ahmad (2022-CS-93)
 
 ---
 
@@ -122,12 +122,6 @@ streamlit run app.py
 
 ## 🧠 Conceptual Overview
 Extractive summarization identifies and selects key sentences from a text to retain its core meaning while reducing its length. This saves time, increases productivity, and improves decision-making abilities.
-
----
-
-## 🖼 Poster
-
-![Project Poster](./poster.png)
 
 ---
 
