@@ -79,7 +79,7 @@ graph TD
 
 - **BLEU**: 0.34 (Measures overlapping n-grams)
 - **ROUGE-1**: 0.60 (High overlap of unigrams)
-- **ROUGE-2**: 0.04 (Overlap of bigrams)
+- **ROUGE-2**: 0.64 (Overlap of bigrams)
 - **ROUGE-L**: 0.31 (Overlap at sentence level)
 
 ---
